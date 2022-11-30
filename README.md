@@ -11,3 +11,10 @@
 <br/>  
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&pause=1000000&vCenter=true&color=fff&width=2000&lines=Gosto+de+ambas+as+areas+de+FrontEnd+e+BackEnd+e+estou+aberto+a+experiências+em+qualquer+uma+delas!)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&pause=1000000&vCenter=true&color=fff&width=2500&lines=Sinta+se+avontade+para+navegar+pelos+meus+repositorios+e+caso+queira+entrar+em+contato+ficarei+muito+feliz+com+a+oportunidade.)](https://git.io/typing-svg)
+  
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>  
