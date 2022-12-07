@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&pause=10000000&color=fff&vCenter=true&width=1500&lines=Meu+nome+é+Murilo+e+eu+sou+um+programador+em+desenvolvimento!)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/MuriloViera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloViera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloViera&layout=compact&langs_count=8&theme=dark"/>
 </div>
