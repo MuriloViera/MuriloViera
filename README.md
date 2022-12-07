@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&pause=1000000&vCenter=true&color=fff&width=2500&lines=Sinta+se+avontade+para+navegar+pelos+meus+repositorios+e+caso+queira+entrar+em+contato+ficarei+muito+feliz+com+a+oportunidade.)](https://git.io/typing-svg)
   
 <div align="center">
-  <a href="https://www.linkedin.com/in/murilo-pizzamiglio-259627259/"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/murilo-pizzamiglio-259627259/"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:murilopizzamiglio@gmail.com"/>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>  
