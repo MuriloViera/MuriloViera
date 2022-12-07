@@ -14,6 +14,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&pause=1000000&vCenter=true&color=fff&width=2500&lines=Sinta+se+avontade+para+navegar+pelos+meus+repositorios+e+caso+queira+entrar+em+contato+ficarei+muito+feliz+com+a+oportunidade.)](https://git.io/typing-svg)
   
 <div align="center">
-   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:murilopizzamiglio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murilo-pizzamiglio-259627259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
