@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&pause=10000000&color=fff&vCenter=true&width=1500&lines=Meu+nome+é+Murilo+e+eu+sou+um+programador+em+desenvolvimento!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-steel-seven.vercel.app/api?username=MuriloViera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-steel-seven.vercel.app/api/top-langs/?username=MuriloViera&layout=compact&langs_count=8&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloViera&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloViera&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <br/>  
